@@ -1,9 +1,9 @@
 # percentage method
 name= "Era"
 age=19
-"""print("Hello %s My age is %f"% (name,age))
+print("Hello %s My age is %f"% (name,age))
 
-# .format 
+"""# .format 
 print("Your age is {}. Name is {}".format(age,name))
 
 
