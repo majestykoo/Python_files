@@ -87,3 +87,6 @@ for i in list:
 #         print(f"{char} is a consonant.")
 # else:
 #     print("Invalid input. Please enter a single alphabetic character.")
+
+
+##aasldcjnadslicnmaiuscnjmawlcionaslicjmawd
